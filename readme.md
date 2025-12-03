@@ -3,15 +3,15 @@
 这个代码目录主要给出了如何使用opencompass评测框架， 使用标准的数据集进行评测。
 
 ```
-  pip install -U opencompass
+pip install -U opencompass
 opencompass --models hf_internlm2_5_1_8b_chat --datasets demo_gsm8k_chat_gen
 ```
 
 
 # 数据集社区
 
-包括但远不限于 ```humaneval, triviaqa, commonsenseqa, tydiqa, strategyqa, cmmlu, lambada, piqa, ceval, math, LCSTS, Xsum, winogrande, openbookqa, AGIEval, gsm8k, nq, race, siqa, mbpp, mmlu, hellaswag, ARC, BBH, xstory_cloze, summedits, GAOKAO-BENCH, OCNLI, cmnli
-```
+包括但远不限于 
+``` humaneval, triviaqa, commonsenseqa, tydiqa, strategyqa, cmmlu, lambada, piqa, ceval, math, LCSTS, Xsum, winogrande, openbookqa, AGIEval, gsm8k, nq, race, siqa, mbpp, mmlu, hellaswag, ARC, BBH, xstory_cloze, summedits, GAOKAO-BENCH, OCNLI, cmnli ```
 
 https://hub.opencompass.org.cn/home/
 
